@@ -33,7 +33,6 @@ int main()
 
     }
 
-
     else if(option == 2){
 
     for(i = 1; i <= sharp; i++){
@@ -56,9 +55,6 @@ int main()
 
     }
 
-
-
-
-
     return 0;
+    
 }
